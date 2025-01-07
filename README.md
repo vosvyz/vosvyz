@@ -8,6 +8,6 @@ A little bit of everything -- databases, safety, architecture of backend and fro
 
 · 27. That's a roguelike-multiplayer game with post-ironic charisma. You CAN'T find that in my profile now (unless you aren't part of out team), but we're planning to publish it in april. I am the team leader on this project. Our team has nine members.
 # Collaborations
-I'd be thrilled to collaborate, talk, advising or getting advised. Contacts:
+I'd be thrilled to collaborate, talk, advise or getting advised. Contacts:
 
 Telegram: https://t.me/vergilspparda
