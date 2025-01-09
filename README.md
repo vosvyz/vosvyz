@@ -6,7 +6,7 @@ A little bit of everything -- databases, safety, architecture of backend and fro
 ## I work on...
 - Jessenger (a.k.a. J-chat, a.k.a. Blip). You can find that in my profile. That's a little fast messenger created with C++ (Qt Framework) and Java (Spring). I've been working on it solo, but I'll be happy if someone helps me.
 
-- 27. That's a roguelike-multiplayer game with post-ironic charisma. You CAN'T find that in my profile now (unless you aren't part of out team), but we're planning to publish it in april. I am the team leader on this project. Our team has nine members.
+- Twenty seven. That's a roguelike-multiplayer game with post-ironic charisma. You CAN'T find that in my profile now (unless you aren't part of out team), but we're planning to publish it in april. I am the team leader on this project. Our team has nine members.
 ## Collaborations
 I'd be thrilled to collaborate, talk, advise or getting advised. Contacts:
 
